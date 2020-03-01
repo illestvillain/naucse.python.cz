@@ -1,0 +1,76 @@
+BEGIN:VCALENDAR
+BEGIN:VEVENT
+DTEND:20200526T180000Z
+DTSTART:20200526T160000Z
+SUMMARY:Kontejnery
+UID:https://naucse.python.cz/2020/linux-admin/sessions/containers/
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20200407T180000Z
+DTSTART:20200407T160000Z
+SUMMARY:Deskriptory
+UID:https://naucse.python.cz/2020/linux-admin/sessions/descriptors/
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20200331T180000Z
+DTSTART:20200331T160000Z
+SUMMARY:Bash III
+UID:https://naucse.python.cz/2020/linux-admin/sessions/shell-3/
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20200519T180000Z
+DTSTART:20200519T160000Z
+SUMMARY:Síťové služby
+UID:https://naucse.python.cz/2020/linux-admin/sessions/net-services/
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20200414T180000Z
+DTSTART:20200414T160000Z
+SUMMARY:Správa uživatelů
+UID:https://naucse.python.cz/2020/linux-admin/sessions/users/
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20200505T180000Z
+DTSTART:20200505T160000Z
+SUMMARY:Souborové systémy
+UID:https://naucse.python.cz/2020/linux-admin/sessions/mount/
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20200512T180000Z
+DTSTART:20200512T160000Z
+SUMMARY:Služby
+UID:https://naucse.python.cz/2020/linux-admin/sessions/service/
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20200317T190000Z
+DTSTART:20200317T170000Z
+SUMMARY:Bash I
+UID:https://naucse.python.cz/2020/linux-admin/sessions/shell-1/
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20200428T180000Z
+DTSTART:20200428T160000Z
+SUMMARY:Hierarchie
+UID:https://naucse.python.cz/2020/linux-admin/sessions/fhs/
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20200421T180000Z
+DTSTART:20200421T160000Z
+SUMMARY:Opakování
+UID:https://naucse.python.cz/2020/linux-admin/sessions/review/
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20200310T190000Z
+DTSTART:20200310T170000Z
+SUMMARY:Instalace
+UID:https://naucse.python.cz/2020/linux-admin/sessions/vm-setup/
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20200324T190000Z
+DTSTART:20200324T170000Z
+SUMMARY:Bash II
+UID:https://naucse.python.cz/2020/linux-admin/sessions/shell-2/
+END:VEVENT
+PRODID:ics.py - http://git.io/lLljaA
+VERSION:2.0
+END:VCALENDAR
